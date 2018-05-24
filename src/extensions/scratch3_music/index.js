@@ -632,7 +632,7 @@ class Scratch3MusicBlocks {
                     blockType: BlockType.COMMAND,
                     text: formatMessage({
                         id: 'music.playDrumForBeats',
-                        default: 'play drum [DRUM] for [BEATS] beats',
+                        default: 'play drums [DRUM] for [BEATS] beats',
                         description: 'play drum sample for a number of beats'
                     }),
                     arguments: {
